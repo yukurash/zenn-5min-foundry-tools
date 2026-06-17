@@ -7,7 +7,7 @@ Zenn シリーズ「5分でわかる Foundry Tools」のサンプルコード集
 
 | フォルダ | 内容 | 対象サービス |
 | --- | --- | --- |
-| [language-sentiment](language-sentiment) | 感情分析 / オピニオンマイニングの Bicep と最小コード | Azure AI Language |
+| [language-sentiment](language-sentiment) | 感情分析 / オピニオンマイニングの Bicep と最小コード | Azure Language |
 
 ## 使い方（共通）
 

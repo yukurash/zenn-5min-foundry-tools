@@ -1,4 +1,4 @@
-// Azure AI Language（感情分析）即デプロイ用テンプレ
+// Azure Language（感情分析）即デプロイ用テンプレ
 // kind=AIServices（統合 Foundry リソース）。Language/感情分析 API をそのまま叩けます。
 // 鍵は出力しません（検証時に az ... keys list で取得）。
 // 補足: 単独 kind=TextAnalytics の S0 は一部サブスク（内部/FDPO 等）で QuotaId 制限により拒否されるため、

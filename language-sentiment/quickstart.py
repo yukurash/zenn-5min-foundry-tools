@@ -1,7 +1,6 @@
-"""Azure AI Language - 感情分析 & オピニオンマイニング 最小サンプル.
+"""Azure Language - 感情分析 & オピニオンマイニング 最小サンプル.
 
-キーレス（Entra ID）認証で接続します。
-.env から LANGUAGE_ENDPOINT を読み込み、`az login` 済みの ID で認証します
+キーレス（Entra ID）認証で接続します。.env から LANGUAGE_ENDPOINT を読み込み、`az login` 済みの ID で認証します
 （事前に「Cognitive Services User」ロールが必要）。鍵をコードに持たずに済みます。
 """
 import os
