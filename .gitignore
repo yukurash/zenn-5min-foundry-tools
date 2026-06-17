@@ -1,0 +1,14 @@
+# secrets / env
+.env
+.env.*
+*.key
+*.pem
+
+# python
+__pycache__/
+*.pyc
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
