@@ -11,6 +11,7 @@ Zenn シリーズ「5分でわかる Foundry Tools」のサンプルコード集
 | --- | --- | --- | --- |
 | [language-sentiment](language-sentiment) | 感情分析 / オピニオンマイニングの Bicep と最小コード | Azure Language | [【5分でわかる Foundry Tools シリーズ】Azure Language の感情分析](https://zenn.dev/yukurash/articles/13d11e063d0f99) |
 | [docintel-invoice](docintel-invoice) | 請求書（prebuilt-invoice）の Bicep・最小コード・サンプル PDF | Azure AI Document Intelligence | 【5分でわかる Foundry Tools シリーズ】Azure AI Document Intelligence で請求書を読み取る |
+| [contentsafety-text](contentsafety-text) | テキストモデレーション（Analyze Text）の Bicep と最小コード | Azure AI Content Safety | 【5分でわかる Foundry Tools シリーズ】Azure AI Content Safety で有害テキストを検出する |
 
 ## 使い方（共通）
 
